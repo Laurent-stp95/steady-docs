@@ -1,0 +1,26 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "side-tab",
+        "value": "*",
+        "files": [
+          "assets/style.css"
+        ],
+        "createdAt": "2026-11-08T21:57:17.207Z",
+        "reason": "Claude: only match is the FAQ/TOC chevron drawn with two rotated borders, not a side accent"
+      },
+      {
+        "rule": "cramped-padding",
+        "value": "*",
+        "files": [
+          "*.html"
+        ],
+        "createdAt": "2026-11-08T21:57:17.229Z",
+        "reason": "Claude: .table scroll wrapper; its cells carry 10px 14px padding"
+      }
+    ]
+  }
+}

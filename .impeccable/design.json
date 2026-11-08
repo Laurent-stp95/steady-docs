@@ -1,0 +1,493 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-08T22:11:50+00:00",
+  "title": "Design System: Steady Documentation",
+  "extensions": {
+    "colorMeta": {
+      "accent": {
+        "role": "primary",
+        "displayName": "Steady Orange",
+        "canonical": "#c8441d",
+        "tonalRamp": [
+          "#371d16",
+          "#67301f",
+          "#9e3f23",
+          "#db4b21",
+          "#dc775a",
+          "#dfa391",
+          "#e8cbc2",
+          "#f7f0ee"
+        ]
+      },
+      "accent-ink": {
+        "role": "primary",
+        "displayName": "Deep Orange Ink",
+        "canonical": "#a83a17",
+        "tonalRamp": [
+          "#371e15",
+          "#68301f",
+          "#9f4022",
+          "#dc4d1f",
+          "#dd7959",
+          "#e0a390",
+          "#e8cbc2",
+          "#f7f0ee"
+        ]
+      },
+      "accent-dark": {
+        "role": "primary",
+        "displayName": "Ember Ink (dark)",
+        "canonical": "#ff8a5c",
+        "tonalRamp": [
+          "#3c1d10",
+          "#742e13",
+          "#b33d0e",
+          "#fa4701",
+          "#f27544",
+          "#eca184",
+          "#eecabc",
+          "#f8f0ec"
+        ]
+      },
+      "ground": {
+        "role": "neutral",
+        "displayName": "Grouped Ground",
+        "canonical": "#f2f2f7",
+        "tonalRamp": [
+          "#21212c",
+          "#38384f",
+          "#4d4d74",
+          "#60609b",
+          "#8686b0",
+          "#acacc4",
+          "#cfcfdb",
+          "#f1f1f4"
+        ]
+      },
+      "surface": {
+        "role": "neutral",
+        "displayName": "Card White",
+        "canonical": "#ffffff",
+        "tonalRamp": [
+          "#262626",
+          "#434343",
+          "#616161",
+          "#7e7e7e",
+          "#9b9b9b",
+          "#b8b8b8",
+          "#d5d5d5",
+          "#f2f2f2"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Ink",
+        "canonical": "#1c1c1e",
+        "tonalRamp": [
+          "#252527",
+          "#424245",
+          "#5e5e63",
+          "#797982",
+          "#98989e",
+          "#b6b6ba",
+          "#d4d4d6",
+          "#f2f2f2"
+        ]
+      },
+      "body": {
+        "role": "neutral",
+        "displayName": "Body",
+        "canonical": "#2c2c2e",
+        "tonalRamp": [
+          "#262627",
+          "#424244",
+          "#5f5f62",
+          "#7b7b80",
+          "#99999d",
+          "#b7b7b9",
+          "#d5d5d6",
+          "#f2f2f2"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted",
+        "canonical": "#5e5e63",
+        "tonalRamp": [
+          "#262627",
+          "#424245",
+          "#5e5e63",
+          "#7a7a81",
+          "#99999d",
+          "#b7b7b9",
+          "#d4d4d6",
+          "#f2f2f2"
+        ]
+      },
+      "faint": {
+        "role": "neutral",
+        "displayName": "Faint",
+        "canonical": "#6e6e73",
+        "tonalRamp": [
+          "#262627",
+          "#424244",
+          "#5f5f62",
+          "#7b7b80",
+          "#99999d",
+          "#b7b7b9",
+          "#d5d5d6",
+          "#f2f2f2"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Hairline",
+        "canonical": "#e2e2e7",
+        "tonalRamp": [
+          "#242428",
+          "#3f3f48",
+          "#595968",
+          "#727289",
+          "#9393a3",
+          "#b3b3bd",
+          "#d3d3d7",
+          "#f2f2f3"
+        ]
+      },
+      "line-strong": {
+        "role": "neutral",
+        "displayName": "Strong Hairline",
+        "canonical": "#d1d1d6",
+        "tonalRamp": [
+          "#252528",
+          "#414146",
+          "#5c5c65",
+          "#777785",
+          "#9696a0",
+          "#b5b5bb",
+          "#d4d4d7",
+          "#f2f2f3"
+        ]
+      },
+      "ground-dark": {
+        "role": "neutral",
+        "displayName": "Grouped Ground (dark)",
+        "canonical": "#000000",
+        "tonalRamp": [
+          "#262626",
+          "#434343",
+          "#616161",
+          "#7e7e7e",
+          "#9b9b9b",
+          "#b8b8b8",
+          "#d5d5d5",
+          "#f2f2f2"
+        ]
+      },
+      "surface-dark": {
+        "role": "neutral",
+        "displayName": "Reading Surface (dark)",
+        "canonical": "#111113",
+        "tonalRamp": [
+          "#252527",
+          "#414146",
+          "#5c5c65",
+          "#777785",
+          "#9696a0",
+          "#b5b5bb",
+          "#d4d4d6",
+          "#f2f2f3"
+        ]
+      },
+      "card-dark": {
+        "role": "neutral",
+        "displayName": "Raised Card (dark)",
+        "canonical": "#1c1c1e",
+        "tonalRamp": [
+          "#252527",
+          "#424245",
+          "#5e5e63",
+          "#797982",
+          "#98989e",
+          "#b6b6ba",
+          "#d4d4d6",
+          "#f2f2f2"
+        ]
+      },
+      "ink-dark": {
+        "role": "neutral",
+        "displayName": "Ink (dark)",
+        "canonical": "#f5f5f7",
+        "tonalRamp": [
+          "#242429",
+          "#3e3e49",
+          "#57576a",
+          "#70708c",
+          "#9191a5",
+          "#b2b2be",
+          "#d2d2d8",
+          "#f2f2f3"
+        ]
+      },
+      "body-dark": {
+        "role": "neutral",
+        "displayName": "Body (dark)",
+        "canonical": "#e5e5ea",
+        "tonalRamp": [
+          "#242429",
+          "#3e3e49",
+          "#585869",
+          "#70708b",
+          "#9292a4",
+          "#b2b2be",
+          "#d2d2d8",
+          "#f2f2f3"
+        ]
+      },
+      "muted-dark": {
+        "role": "neutral",
+        "displayName": "Muted and Faint (dark)",
+        "canonical": "#a1a1a6",
+        "tonalRamp": [
+          "#262627",
+          "#424245",
+          "#5e5e63",
+          "#7a7a81",
+          "#98989d",
+          "#b7b7b9",
+          "#d4d4d6",
+          "#f2f2f2"
+        ]
+      },
+      "line-dark": {
+        "role": "neutral",
+        "displayName": "Hairline (dark)",
+        "canonical": "#2c2c2e",
+        "tonalRamp": [
+          "#262627",
+          "#424244",
+          "#5f5f62",
+          "#7b7b80",
+          "#99999d",
+          "#b7b7b9",
+          "#d5d5d6",
+          "#f2f2f2"
+        ]
+      },
+      "line-strong-dark": {
+        "role": "neutral",
+        "displayName": "Strong Hairline (dark)",
+        "canonical": "#3a3a3c",
+        "tonalRamp": [
+          "#262627",
+          "#434344",
+          "#5f5f62",
+          "#7c7c80",
+          "#99999c",
+          "#b7b7b9",
+          "#d5d5d6",
+          "#f2f2f2"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Home title only."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Page titles."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "h2 sections, after a hairline rule."
+      },
+      "subtitle": {
+        "displayName": "Subtitle",
+        "purpose": "h3 subsections."
+      },
+      "lead": {
+        "displayName": "Lead",
+        "purpose": "Opening paragraph of each page, muted."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Prose, 70ch."
+      },
+      "nav": {
+        "displayName": "Nav",
+        "purpose": "Sidebar, part page lists, TOC."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Sidebar group names, « Sur cette page » heading."
+      }
+    },
+    "shadows": [
+      {
+        "name": "float",
+        "value": "0 1px 2px rgb(0 0 0 / .04), 0 8px 28px rgb(0 0 0 / .06)",
+        "purpose": "Hero search and open mobile drawer (dark: .4 / .5)."
+      },
+      {
+        "name": "dialog",
+        "value": "0 24px 80px rgb(0 0 0 / .28)",
+        "purpose": "Search dialog, over rgb(0 0 0 / .32) backdrop with 2px blur."
+      },
+      {
+        "name": "focus-halo",
+        "value": "0 0 0 4px rgb(200 68 29 / .09)",
+        "purpose": "Hero search focus, added to float."
+      }
+    ],
+    "motion": [
+      {
+        "name": "drawer",
+        "value": "transform .28s cubic-bezier(.2, .8, .2, 1)",
+        "purpose": "Mobile sidebar drawer and scrim fade."
+      },
+      {
+        "name": "disclosure",
+        "value": "transform .2s",
+        "purpose": "FAQ and inline TOC chevron rotation."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "none",
+        "purpose": "All transitions off under prefers-reduced-motion."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "phone",
+        "value": "860px"
+      },
+      {
+        "name": "two-col-parts",
+        "value": "861px to 1080px"
+      },
+      {
+        "name": "no-rail",
+        "value": "1200px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "App Button",
+      "kind": "button",
+      "refersTo": "button-app",
+      "description": "The only filled button: opens the app from the header.",
+      "html": "<a class=\"ds-app\" href=\"#\">Ouvrir l’appli<svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M14 4h6v6M20 4l-9 9M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5\"/></svg></a>",
+      "css": ":host{--accent:#c8441d;--accent-ink:#a83a17;--accent-soft:rgb(200 68 29 / .09);--bg:#f2f2f7;--raised:#fff;--surface:#fff;--fg:#1c1c1e;--body:#2c2c2e;--muted:#5e5e63;--faint:#6e6e73;--line:#e2e2e7;--line-strong:#d1d1d6;--hover:rgb(118 118 128 / .08);--fill:rgb(118 118 128 / .12);--sans:-apple-system,BlinkMacSystemFont,'SF Pro Text','Segoe UI',system-ui,sans-serif;font-family:var(--sans)}.ds-app{display:inline-flex;align-items:center;gap:6px;padding:7px 14px;border-radius:999px;background:var(--accent);color:#fff;font:600 14px var(--sans);text-decoration:none}.ds-app svg{width:15px;height:15px;stroke-width:2.2}.ds-app:hover{filter:brightness(1.06)}.ds-app:focus-visible{outline:2px solid var(--accent);outline-offset:2px}"
+    },
+    {
+      "name": "Hero Search",
+      "kind": "input",
+      "refersTo": "search-field-hero",
+      "description": "The home's large search field; orange border and soft halo on focus.",
+      "html": "<label class=\"ds-big\"><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M10.5 18a7.5 7.5 0 1 1 0-15 7.5 7.5 0 0 1 0 15ZM21 21l-4.6-4.6\"/></svg><input type=\"search\" placeholder=\"Rechercher : micro, disques…\"><kbd class=\"ds-kbd\">⌘ K</kbd></label>",
+      "css": ":host{--accent:#c8441d;--accent-ink:#a83a17;--accent-soft:rgb(200 68 29 / .09);--bg:#f2f2f7;--raised:#fff;--surface:#fff;--fg:#1c1c1e;--body:#2c2c2e;--muted:#5e5e63;--faint:#6e6e73;--line:#e2e2e7;--line-strong:#d1d1d6;--hover:rgb(118 118 128 / .08);--fill:rgb(118 118 128 / .12);--sans:-apple-system,BlinkMacSystemFont,'SF Pro Text','Segoe UI',system-ui,sans-serif;font-family:var(--sans)}.ds-big{display:flex;align-items:center;gap:12px;width:min(680px,100%);height:60px;padding:0 16px 0 20px;border:1px solid var(--line-strong);border-radius:16px;background:var(--raised);color:var(--faint);box-shadow:0 1px 2px rgb(0 0 0/.04),0 8px 28px rgb(0 0 0/.06)}.ds-big svg{width:22px;height:22px}.ds-big:focus-within{border-color:var(--accent);box-shadow:0 1px 2px rgb(0 0 0/.04),0 8px 28px rgb(0 0 0/.06),0 0 0 4px var(--accent-soft)}.ds-big input{flex:1;min-width:0;border:0;background:none;color:var(--fg);font:18px var(--sans);outline:none;caret-color:var(--accent)}.ds-kbd{font:600 12px/1 var(--sans);color:var(--faint);border:1px solid var(--line-strong);border-radius:6px;padding:3px 6px}"
+    },
+    {
+      "name": "Header Search Button",
+      "kind": "button",
+      "refersTo": "search-button",
+      "description": "Opens the search dialog from content pages.",
+      "html": "<button class=\"ds-sbtn\" type=\"button\"><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M10.5 18a7.5 7.5 0 1 1 0-15 7.5 7.5 0 0 1 0 15ZM21 21l-4.6-4.6\"/></svg><span>Rechercher</span><kbd class=\"ds-kbd\">⌘ K</kbd></button>",
+      "css": ":host{--accent:#c8441d;--accent-ink:#a83a17;--accent-soft:rgb(200 68 29 / .09);--bg:#f2f2f7;--raised:#fff;--surface:#fff;--fg:#1c1c1e;--body:#2c2c2e;--muted:#5e5e63;--faint:#6e6e73;--line:#e2e2e7;--line-strong:#d1d1d6;--hover:rgb(118 118 128 / .08);--fill:rgb(118 118 128 / .12);--sans:-apple-system,BlinkMacSystemFont,'SF Pro Text','Segoe UI',system-ui,sans-serif;font-family:var(--sans)}.ds-sbtn{display:flex;align-items:center;gap:10px;width:260px;height:36px;padding:0 8px 0 12px;border:1px solid var(--line);border-radius:10px;background:var(--bg);color:var(--faint);font:15px var(--sans);cursor:pointer}.ds-sbtn:hover{border-color:var(--line-strong)}.ds-sbtn:focus-visible{outline:2px solid var(--accent);outline-offset:2px}.ds-kbd{margin-left:auto;font:600 12px/1 var(--sans);border:1px solid var(--line-strong);border-radius:6px;padding:3px 6px;background:#fff}"
+    },
+    {
+      "name": "Part Card",
+      "kind": "card",
+      "refersTo": "part-card",
+      "description": "One of the six parts on the home: orange numeral, name, one line, page links.",
+      "html": "<div class=\"ds-wrap\"><section class=\"ds-part\"><a class=\"ds-head\" href=\"#\"><span class=\"ds-num\">2</span><span class=\"ds-name\">S’entraîner</span></a><p class=\"ds-line\">Ta semaine, la séance série par série, la voix, la caméra et la TV.</p><p class=\"ds-pages\"><a href=\"#\">Ma semaine</a><a href=\"#\">Lancer une séance</a><a href=\"#\">Pendant la séance</a></p></section></div>",
+      "css": ":host{--accent:#c8441d;--accent-ink:#a83a17;--accent-soft:rgb(200 68 29 / .09);--bg:#f2f2f7;--raised:#fff;--surface:#fff;--fg:#1c1c1e;--body:#2c2c2e;--muted:#5e5e63;--faint:#6e6e73;--line:#e2e2e7;--line-strong:#d1d1d6;--hover:rgb(118 118 128 / .08);--fill:rgb(118 118 128 / .12);--sans:-apple-system,BlinkMacSystemFont,'SF Pro Text','Segoe UI',system-ui,sans-serif;font-family:var(--sans)}.ds-wrap{background:var(--bg);padding:20px}.ds-part{padding:20px 22px 18px;border-radius:16px;background:var(--raised)}.ds-head{display:flex;align-items:baseline;gap:10px;color:var(--fg);text-decoration:none}.ds-head:hover .ds-name{color:var(--accent-ink)}.ds-num{color:var(--accent);font-weight:700;font-size:15px;font-variant-numeric:tabular-nums}.ds-name{font-size:20px;font-weight:650;letter-spacing:-.01em}.ds-line{margin:6px 0 0;color:var(--muted);font-size:14.5px;line-height:1.45}.ds-pages{display:flex;flex-wrap:wrap;gap:2px 16px;margin:10px 0 0;font-size:14px;line-height:1.45}.ds-pages a{color:var(--body);text-decoration:none}.ds-pages a:hover{color:var(--accent-ink);text-decoration:underline;text-underline-offset:3px}"
+    },
+    {
+      "name": "Question Chip",
+      "kind": "chip",
+      "refersTo": "question-chip",
+      "description": "Frequent question shortcut on the home.",
+      "html": "<div class=\"ds-wrap\"><a class=\"ds-chip\" href=\"#\">Pourquoi ma charge n’augmente pas ?</a></div>",
+      "css": ":host{--accent:#c8441d;--accent-ink:#a83a17;--accent-soft:rgb(200 68 29 / .09);--bg:#f2f2f7;--raised:#fff;--surface:#fff;--fg:#1c1c1e;--body:#2c2c2e;--muted:#5e5e63;--faint:#6e6e73;--line:#e2e2e7;--line-strong:#d1d1d6;--hover:rgb(118 118 128 / .08);--fill:rgb(118 118 128 / .12);--sans:-apple-system,BlinkMacSystemFont,'SF Pro Text','Segoe UI',system-ui,sans-serif;font-family:var(--sans)}.ds-wrap{background:var(--bg);padding:20px}.ds-chip{display:inline-block;padding:9px 16px;border-radius:999px;background:var(--raised);color:var(--fg);font-size:15px;text-decoration:none}.ds-chip:hover{color:var(--accent-ink)}.ds-chip:focus-visible{outline:2px solid var(--accent);outline-offset:2px}"
+    },
+    {
+      "name": "Sidebar",
+      "kind": "nav",
+      "refersTo": "sidebar-link",
+      "description": "Parts and pages; the current page takes the soft orange wash.",
+      "html": "<nav class=\"ds-side\"><p class=\"ds-group\">S’entraîner</p><a href=\"#\">Lancer une séance</a><a href=\"#\" aria-current=\"page\">Pendant la séance</a><a href=\"#\">Coach vocal et commandes à la voix</a></nav>",
+      "css": ":host{--accent:#c8441d;--accent-ink:#a83a17;--accent-soft:rgb(200 68 29 / .09);--bg:#f2f2f7;--raised:#fff;--surface:#fff;--fg:#1c1c1e;--body:#2c2c2e;--muted:#5e5e63;--faint:#6e6e73;--line:#e2e2e7;--line-strong:#d1d1d6;--hover:rgb(118 118 128 / .08);--fill:rgb(118 118 128 / .12);--sans:-apple-system,BlinkMacSystemFont,'SF Pro Text','Segoe UI',system-ui,sans-serif;font-family:var(--sans)}.ds-side{width:240px;padding:16px;background:var(--surface);border-right:1px solid var(--line)}.ds-group{margin:0;padding:0 10px 6px;color:var(--fg);font-size:13px;font-weight:650}.ds-side a{display:block;padding:6px 10px;border-radius:8px;color:var(--muted);font-size:14.5px;line-height:1.4;text-decoration:none}.ds-side a:hover{background:var(--hover);color:var(--fg)}.ds-side a[aria-current]{background:var(--accent-soft);color:var(--accent-ink);font-weight:600}.ds-side a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}"
+    },
+    {
+      "name": "Sur cette page",
+      "kind": "nav",
+      "description": "Right-rail table of contents with a left rule; the active section turns orange.",
+      "html": "<nav class=\"ds-toc\"><p>Sur cette page</p><a href=\"#\" class=\"on\">L’écran Séance</a><a href=\"#\">Choisir l’affichage</a><a href=\"#\" class=\"l3\">L’échauffement guidé</a></nav>",
+      "css": ":host{--accent:#c8441d;--accent-ink:#a83a17;--accent-soft:rgb(200 68 29 / .09);--bg:#f2f2f7;--raised:#fff;--surface:#fff;--fg:#1c1c1e;--body:#2c2c2e;--muted:#5e5e63;--faint:#6e6e73;--line:#e2e2e7;--line-strong:#d1d1d6;--hover:rgb(118 118 128 / .08);--fill:rgb(118 118 128 / .12);--sans:-apple-system,BlinkMacSystemFont,'SF Pro Text','Segoe UI',system-ui,sans-serif;font-family:var(--sans)}.ds-toc{width:220px;font-size:14px}.ds-toc p{margin:0 0 10px;color:var(--fg);font-weight:650;font-size:13px}.ds-toc a{display:block;padding:4px 0 4px 12px;border-left:1px solid var(--line);color:var(--muted);line-height:1.4;text-decoration:none}.ds-toc a.l3{padding-left:24px;font-size:13.5px}.ds-toc a:hover{color:var(--fg)}.ds-toc a.on{border-left-color:var(--accent);color:var(--accent-ink)}"
+    },
+    {
+      "name": "Pager Card",
+      "kind": "card",
+      "refersTo": "pager-card",
+      "description": "Previous/next link at the end of a page.",
+      "html": "<a class=\"ds-pager\" href=\"#\"><span>Suivant</span><strong>Coach vocal et commandes à la voix</strong></a>",
+      "css": ":host{--accent:#c8441d;--accent-ink:#a83a17;--accent-soft:rgb(200 68 29 / .09);--bg:#f2f2f7;--raised:#fff;--surface:#fff;--fg:#1c1c1e;--body:#2c2c2e;--muted:#5e5e63;--faint:#6e6e73;--line:#e2e2e7;--line-strong:#d1d1d6;--hover:rgb(118 118 128 / .08);--fill:rgb(118 118 128 / .12);--sans:-apple-system,BlinkMacSystemFont,'SF Pro Text','Segoe UI',system-ui,sans-serif;font-family:var(--sans)}.ds-pager{display:grid;gap:4px;width:300px;padding:16px 18px;border:1px solid var(--line);border-radius:12px;color:var(--fg);text-decoration:none;text-align:right}.ds-pager span{color:var(--muted);font-size:13px}.ds-pager:hover{border-color:var(--accent)}.ds-pager:focus-visible{outline:2px solid var(--accent);outline-offset:2px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The App's Own Manual",
+    "overview": "The documentation lives in the same world as the Steady app: the iOS grouped look, the system font, white cards on a pale grey ground, and one orange that only ever marks where you are or where you can go. It should feel like a Réglages screen that grew into a manual: calm, dense with real answers, no decoration competing with the text.\n\nTwo surfaces, two grounds. The home is a help centre: grouped grey ground (#f2f2f7, black in dark) with white part cards and question chips around one large search field. Content pages are for long reading, so they sit on a plain reading surface (white, #111113 in dark) with a sticky sidebar, a 70ch column and a « Sur cette page » rail. Light and dark follow the iPhone; a header toggle forces either.\n\nThe part a page belongs to is shown by the header pill and the sidebar group, never by a label stacked above the title.",
+    "keyCharacteristics": [
+      "iOS grouped world: grey ground, white 16px cards, hairline separators.",
+      "System font stack only; no web fonts.",
+      "One orange, used as a pointer (numerals, current page, links, focus, caret), never as decoration.",
+      "Home on grouped ground, content pages on a plain reading surface.",
+      "Flat by default; the only shadows belong to the hero search, the search dialog and the mobile drawer."
+    ],
+    "rules": [
+      {
+        "name": "The Pointer Rule",
+        "body": "Orange only marks a part numeral, the current page, a link, focus or the caret, plus the single filled \"Ouvrir l'appli\" button. No orange backgrounds, borders, icons or rules for decoration.",
+        "section": "colors"
+      },
+      {
+        "name": "The Two Grounds Rule",
+        "body": "The help-centre home sits on the grouped ground with raised cards; content pages sit on the plain reading surface. Do not put a long-reading page on grey, and do not put the home cards on white.",
+        "section": "colors"
+      },
+      {
+        "name": "The No Kicker Rule",
+        "body": "No eyebrow or kicker label above a title. The part is already named by the header pill and the sidebar group.",
+        "section": "typography"
+      },
+      {
+        "name": "The System Face Rule",
+        "body": "System font stack only; no web font is loaded (fast and offline-tolerant on a phone). Numerals that align (part numbers, ordered lists) use tabular figures.",
+        "section": "typography"
+      },
+      {
+        "name": "The Flat Card Rule",
+        "body": "Part cards and chips carry no shadow and no border; the ground does the separating.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do keep the home on the grouped ground (#f2f2f7 / #000) and content pages on the plain reading surface (#fff / #111113).",
+      "Do limit orange to part numerals, the current page, links, focus, caret and the one app button.",
+      "Do use the system font stack and tabular figures for numbering.",
+      "Do cap reading text at 70ch and separate h2 sections with a hairline.",
+      "Do keep cards flat; give shadows only to the hero search, the dialog and the drawer."
+    ],
+    "donts": [
+      "Don't put a kicker or eyebrow label above a title.",
+      "Don't use orange as decoration (backgrounds, dividers, icon tint, badges).",
+      "Don't load web fonts.",
+      "Don't add borders or shadows to part cards or chips.",
+      "Don't use emoji or glyph characters as icons; icons are inline stroke SVGs."
+    ]
+  }
+}
