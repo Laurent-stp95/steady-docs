@@ -57,11 +57,11 @@ Dans ce dernier cas, une ligne résume la semaine qui se termine, par exemple <b
 
 Quand plus aucune séance n'est prévue d'ici dimanche, la bande et la carte montrent déjà la semaine suivante. Tu fais une de ses séances en avance, le dimanche par exemple : elle compte pour la semaine suivante, sa carte passe en <b>Terminée</b> et la séance d'après devient celle à faire.
 
-Une séance compte comme faite quand tu l'as terminée avec au moins une série enregistrée. Une séance abandonnée ne compte pas.
+Une séance compte comme faite quand tu l'as terminée avec au moins une série enregistrée. Une séance abandonnée ne compte pas. Une séance libre non plus : elle ne remplace pas une séance de ta semaine.
 
 ## L'ordre de l'écran
 
-De haut en bas : les bandeaux du cycle s'il y en a, la bande calendrier, la carte de la séance affichée, la récupération, le rappel de sauvegarde, puis <b>Options de la semaine</b>.
+De haut en bas : les bandeaux du cycle s'il y en a, la carte de la séance libre en cours s'il y en a une, la bande calendrier, la carte de la séance affichée, la récupération, le rappel de sauvegarde, la ligne <b>Séance libre</b>, puis <b>Options de la semaine</b>.
 
 ## La carte Récupération
 
@@ -139,6 +139,23 @@ Sans geste dans la bande, la carte montre la séance à faire maintenant. Steady
 Une séance d'un jour passé, pas encore faite, reste disponible : touche son jour dans la bande, puis <b>Commencer la séance</b>.
 
 Le démarrage d'une séance est détaillé dans la page <mention url="https://app.notion.com/p/4104095d0a7881d68701e6d20e5f92ce">Lancer une séance</mention>.
+
+## La séance libre
+
+Sous la carte de séance, la ligne <b>Séance libre</b>, sous-titrée <b>Hors programme : choisis tes exercices un à un</b>, lance une séance sans jour du programme.
+
+- Tu touches la ligne : le point de forme s'ouvre, puis la séance, où tu ajoutes tes exercices un à un.
+- La séance libre ne compte pas dans ta semaine : la bande calendrier, l'avancement et le cycle ne bougent pas.
+- Ses séries entrent dans ton suivi : courbes, records, récupération et historique.
+
+Pendant qu'une séance libre est en cours, la ligne disparaît et une carte <b>Séance libre</b> s'affiche en haut de l'écran, avec le nombre d'exercices et de séries faites, par exemple <b>2 exercices · 5 séries faites</b>, et le badge <b>En cours</b> ou <b>En pause</b>.
+
+| Bouton | Effet |
+| --- | --- |
+| <b>Reprendre la séance</b> | Revient à la séance libre, et la relance si elle était en pause |
+| <b>Arrêter</b> (en rouge) | Propose de terminer ou d'abandonner la séance |
+
+Voir la page <mention url="https://app.notion.com/p/4104095d0a7881d68701e6d20e5f92ce">Lancer une séance</mention>, section Lancer une séance libre.
 
 ## Options de la semaine
 

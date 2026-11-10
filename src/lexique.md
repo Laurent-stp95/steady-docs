@@ -10,7 +10,7 @@ Cette page explique les mots de musculation et de Steady utilisés dans l'appli 
 
 | Mot | Définition |
 | --- | --- |
-| Amplitude | La distance parcourue par le mouvement, du haut au bas. Une amplitude complète, c'est descendre aussi bas que le mouvement le demande (par exemple les cuisses parallèles au sol au squat). La caméra la mesure par l'angle du genou ou du coude |
+| Amplitude | La distance parcourue par le mouvement, du haut au bas. Une amplitude complète, c'est descendre aussi bas que le mouvement le demande (par exemple les cuisses parallèles au sol au squat). La caméra la mesure par l'angle du genou, du coude, de la hanche ou de l'épaule |
 | Apprentissage du geste | Les 2 premières séances d'un exercice nouveau ou réintégré, sans augmentation de charge, pour apprendre le mouvement |
 | Bas du corps | Type de séance centré sur les jambes, les fessiers, les mollets et les abdos |
 | Butées | Les barres de sécurité réglables de la Smith machine, qui retiennent la barre si tu ne peux plus la remonter |
@@ -48,9 +48,11 @@ Cette page explique les mots de musculation et de Steady utilisés dans l'appli 
 | Répétition | Un mouvement complet, de la position de départ au retour |
 | Répétitions en réserve | Les répétitions que tu pourrais encore faire à la fin d'une série. En garder 2 ou 3 protège ta technique et tes articulations |
 | Ressenti | Ta réponse à la fin d'un exercice : Facile, Bien, Dur ou Douleur |
-| Séance express | Une séance raccourcie à 30 ou 20 minutes, qui garde les mouvements principaux entiers |
+| Séance express | Une séance raccourcie à 30 ou 20 minutes, qui garde les mouvements principaux entiers et peut enchaîner des exercices en superset |
+| Séance libre | Une séance hors programme, où tu ajoutes tes exercices un à un. Elle ne compte pas dans ta semaine, mais ses séries entrent dans ton suivi |
 | Semaine allégée | La sixième semaine du cycle : moitié moins de séries et charges baissées de 10 %, pour récupérer |
 | Série | Un groupe de répétitions faites à la suite, sans pause |
+| Superset | Deux exercices enchaînés sans repos entre les deux, avec un seul repos après la paire. Steady en forme en séance express, pour gagner du temps |
 | Série d'approche | Une série légère avant les séries de travail, pour préparer le mouvement. Non enregistrée |
 | Smith machine | Une barre guidée sur des rails verticaux, avec des butées de sécurité. Les exercices à la barre de Steady se font avec elle |
 | Tirage | Les mouvements où tu tires une charge vers toi : dos, biceps. C'est aussi un type de séance |

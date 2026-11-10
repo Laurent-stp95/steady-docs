@@ -57,18 +57,20 @@ Chaque exercice déjà fait a sa carte, du plus récent au plus ancien.
 - Ta dernière séance, par exemple <b>Dernière séance, mardi 4 nov. : 10 × 40 kg · 9 × 40 kg</b>, avec <b>technique à revoir</b> si tu as répondu Non à <b>Technique propre ?</b>.
 - Le conseil pour la prochaine séance, avec la charge en gras, par exemple <b>Prochaine : 42,5 kg</b> suivi de la raison. Ces conseils sont expliqués dans la page <mention url="https://app.notion.com/p/4104095d0a78811bbf1af7356b15f0db">Comment Steady choisit tes charges</mention>.
 
+Un exercice fait seulement en séance libre, ou ajouté à une séance, a sa carte comme les autres, avec son conseil pour la prochaine fois.
+
 ## Technique, mesurée par la caméra
 
 Ce bloc apparaît sur la carte d'un exercice dès que tu as validé une série comptée par la caméra de l'iPhone ou par le miroir de l'écran.
 
 Il affiche ta dernière séance, par exemple <b>92° au point bas (8° plus bas qu'au début) · descente 2,1 s · 1 répétition incomplète sur 8</b> :
 
-- l'angle moyen du genou ou du coude au point bas. Plus il est petit, plus tu descends bas ;
+- l'angle moyen de l'articulation suivie (genou, coude ou hanche) au point bas. Plus il est petit, plus tu descends bas. Pour les élévations latérales, c'est l'angle de l'épaule au point haut, par exemple <b>84° au point haut (6° plus haut qu'au début)</b> : plus il est grand, plus tu lèves haut ;
 - la comparaison avec ta première mesure ;
-- la durée moyenne de descente ;
+- la durée moyenne de descente de la charge ;
 - le nombre de répétitions à l'amplitude incomplète.
 
-À partir de deux séances mesurées, une courbe montre l'évolution de l'angle, avec ce rappel : <b>Plus la courbe descend, plus tu descends bas.</b>
+À partir de deux séances mesurées, une courbe montre l'évolution de l'angle, avec ce rappel : <b>Plus la courbe descend, plus tu descends bas.</b> Pour les élévations latérales : <b>Plus la courbe monte, plus tu lèves haut.</b>
 
 Voir la page <mention url="https://app.notion.com/p/4104095d0a7881cd9af2cc211beb95ba">Compter les répétitions avec la caméra</mention>.
 
@@ -82,7 +84,7 @@ Voir la page <mention url="https://app.notion.com/p/4104095d0a7881999916e33a29eb
 
 La carte <b>Historique</b> liste tes séances terminées, de la plus récente à la plus ancienne. Chaque ligne indique :
 
-- la date et le type de séance, par exemple <b>mardi 4 novembre · Full body</b> ;
+- la date et le type de séance, par exemple <b>mardi 4 novembre · Full body</b>, ou <b>jeudi 6 novembre · Séance libre</b> pour une séance hors programme ;
 - la durée d'effort, le nombre de séries, le volume et le nombre de records, par exemple <b>48 min · 22 séries · 3 250 kg · 1 record</b>.
 
 Tu touches une ligne : le détail s'ouvre, avec chaque exercice et ses séries (et <b>record</b> à côté d'une série record).

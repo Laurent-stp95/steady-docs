@@ -3,10 +3,10 @@ title: "Lancer une séance"
 slug: lancer-une-seance
 group: "S'entraîner"
 order: 6
-description: "Point de forme, temps disponible, séance express, interrupteurs d'écran et de micro"
+description: "Point de forme, temps disponible, séance express et supersets, séance libre, interrupteurs d'écran et de micro"
 notion: 4104095d0a7881d68701e6d20e5f92ce
 ---
-Cette page explique comment démarrer une séance : le point de forme, le temps disponible et les interrupteurs d'écran et de micro.
+Cette page explique comment démarrer une séance du programme ou une séance libre : le point de forme, le temps disponible et les interrupteurs d'écran et de micro.
 
 <table-of-contents />
 
@@ -28,6 +28,23 @@ Tu commences une autre séance alors qu'une séance est en cours : l'appli affic
 
 - Tu touches <b>Terminer et commencer</b> : la séance en cours est enregistrée, puis la nouvelle démarre.
 - Tu touches <b>Annuler</b> : rien ne change.
+
+## Lancer une séance libre
+
+Une séance libre est une séance hors programme : tu choisis tes exercices un à un. Elle sert à noter une séance faite ailleurs, ou une séance en plus.
+
+1. Ouvre l'onglet <b>Programme</b>.
+2. Sous la carte de séance, touche la ligne <b>Séance libre</b>, sous-titrée <b>Hors programme : choisis tes exercices un à un</b>.
+3. Réponds aux questions de <b>Comment tu te sens ?</b>. La feuille précise : <b>Séance libre : tu ajoutes tes exercices un à un. Les charges s'adaptent si ça va moins bien.</b>
+4. Touche <b>Commencer la séance</b>.
+
+Résultat : l'onglet <b>Séance</b> s'ouvre sur <b>Ajoute ton premier exercice</b>. Touche <b>Ajouter un exercice</b> pour choisir le premier.
+
+- La question <b>Temps disponible</b> n'apparaît pas : une séance libre n'a pas de durée prévue.
+- Une séance libre ne compte pas comme une séance de ta semaine et n'entame pas le cycle.
+- Ses séries entrent dans ton suivi comme les autres : courbes, records, récupération, historique.
+
+L'ajout d'exercices est détaillé dans la page <mention url="https://app.notion.com/p/4104095d0a7881999916e33a29eb3564">Pendant la séance</mention>, section Ajouter un exercice.
 
 ## Le point de forme
 
@@ -59,7 +76,9 @@ Sous le point de forme, la question <b>Temps disponible</b> propose de raccourci
 
 Une durée n'est proposée que si elle est plus courte d'au moins 5 minutes que la séance complète. Si aucune ne l'est, la question n'apparaît pas.
 
-Tu choisis 30 ou 20 minutes : c'est une séance express. Steady garde les deux premiers exercices entiers, puis retire des séries et, si besoin, des exercices. La séance affiche ce qui a changé, par exemple <b>Séance express (30 min) : 2 exercices retirés, séries réduites. Les mouvements principaux restent entiers.</b>
+Tu choisis 30 ou 20 minutes : c'est une séance express. Steady garde les deux premiers exercices entiers, puis retire des séries, enchaîne deux exercices en superset quand c'est possible et, si besoin, retire des exercices. La séance affiche ce qui a changé, par exemple <b>Séance express (30 min) : 1 superset, 2 exercices retirés, séries réduites. Les mouvements principaux restent entiers.</b>
+
+Un superset, ce sont deux exercices enchaînés sans repos entre les deux, avec un seul repos après la paire. Le temps gagné permet de garder plus d'exercices. Voir la page <mention url="https://app.notion.com/p/4104095d0a7881999916e33a29eb3564">Pendant la séance</mention>, section Les supersets.
 
 La règle exacte et le calcul de la durée sont dans la page <mention url="https://app.notion.com/p/4104095d0a78811bbf1af7356b15f0db">Comment Steady choisit tes charges</mention>, section La séance express. Le programme, lui, ne change pas : la séance suivante est complète.
 

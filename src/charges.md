@@ -117,6 +117,28 @@ Tu choisis <b>30 min</b> ou <b>20 min</b> au point de forme. Steady estime la du
 3. Il retire des exercices d'isolation (biceps, triceps, mollets, abdos), en partant de la fin.
 4. Il retire les autres exercices, en partant de la fin.
 
+À chaque étape, Steady compte la durée avec les supersets possibles, et s'arrête dès que la séance tient dans le temps choisi. Si la séance complète tient déjà, rien ne change et il n'y a pas de superset.
+
+### Les supersets
+
+Un superset enchaîne deux exercices sans repos entre les deux, avec un seul repos après la paire. Steady forme les paires parmi les exercices gardés, avec ces règles :
+
+- jamais les deux premiers exercices de la séance, ni un mouvement principal : ils gardent leur repos entier ;
+- jamais deux exercices de la même zone, ni deux exercices dont l'un travaille un muscle principal de l'autre ;
+- deux exercices à la Smith machine seulement s'ils se font à la même charge : changer les disques prend le temps d'un repos.
+
+| Ordre de préférence | Paires | Exemple |
+| --- | --- | --- |
+| 1 | Muscles opposés : pectoraux et dos, épaules et dos, biceps et triceps, quadriceps et ischios | Curl aux haltères puis Extension triceps au-dessus de la tête |
+| 2 | Un exercice du haut du corps et un du bas | Rowing à un bras à l'haltère puis Mollets debout |
+| 3 | Deux exercices sans muscle commun | Élévations latérales puis Crunch |
+
+À préférence égale, Steady apparie les deux exercices les plus proches dans la séance. Les haussements d'épaules et l'oiseau comptent comme du dos : ils travaillent les trapèzes.
+
+Le calcul de la durée d'un superset : par tour, deux séries de 45 secondes, 10 secondes pour passer de l'un à l'autre et un seul repos, plus 2 minutes de mise en place par exercice. Le repos après la paire dure la moitié du plus long des deux repos, 30 secondes au moins. Chaque muscle récupère pendant la série de l'autre.
+
+Le déroulé pendant la séance est décrit dans la page <mention url="https://app.notion.com/p/4104095d0a7881999916e33a29eb3564">Pendant la séance</mention>, section Les supersets.
+
 Les exercices retirés n'apparaissent pas dans la séance du jour. Ton programme ne change pas.
 
 ## Les séries d'approche

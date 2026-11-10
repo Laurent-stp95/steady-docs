@@ -56,15 +56,16 @@ Tu appuies sur OK avec la télécommande, cliques, ou appuies sur Entrée ou Esp
 | Pendant un repos | Un anneau qui se vide avec le compte à rebours, et la série qui suit, par exemple <b>Prochaine : série 3 sur 4</b> |
 | Pendant l'échauffement | Le mouvement en cours, minuté comme un repos |
 | En pause | <b>Séance en pause</b> |
+| Séance libre sans exercice | <b>Séance libre</b>, <b>En cours</b> et <b>Ajoute ton premier exercice depuis l'iPhone</b> |
 | Après la séance | <b>Séance terminée</b>, le bilan et les records, pendant 15 minutes |
 | Projection arrêtée | <b>Rien n'est projeté pour l'instant</b> |
 
 ### Pendant une série
 
 - À gauche : les images de l'exercice et les muscles travaillés, son nom, le badge <b>Apprentissage du geste</b> si besoin et trois consignes.
-- À droite : <b>Série 2 sur 4</b>, les répétitions visées et la charge en grand, les disques à monter, ce qu'il faut changer sur la barre, <b>La dernière fois</b>, les séries d'approche et le conseil du jour.
+- À droite : <b>Série 2 sur 4</b> (ou <b>Superset · série 2 sur 3</b> quand l'exercice s'enchaîne avec un autre), les répétitions visées et la charge en grand, les disques à monter, ce qu'il faut changer sur la barre, <b>La dernière fois</b>, les séries d'approche et le conseil du jour.
 - En haut : le nom de la séance, un segment par exercice, l'avancement (par exemple <b>12/20 séries · 25 min</b>) et l'heure. Micro de l'iPhone ouvert : la pastille <b>Micro</b> avec un point vert qui pulse s'affiche à gauche de l'heure.
-- En bas : la dernière série faite avec son heure (et <b>Record</b> si c'en est un), puis l'exercice suivant après <b>Ensuite :</b>. Série tout juste validée : la ligne grossit et passe en vert un instant.
+- En bas : la dernière série faite avec son heure (et <b>Record</b> si c'en est un), puis l'exercice suivant après <b>Ensuite :</b>. En superset, c'est l'exercice qui s'enchaîne, avec la mention <b>sans repos</b>. Série tout juste validée : la ligne grossit et passe en vert un instant.
 
 ### Les bandeaux
 
@@ -131,11 +132,11 @@ Sur l'écran, la page passe en plein écran au premier geste. Ensuite :
 
 ## Le miroir
 
-Le miroir affiche l'image d'une caméra sur l'écran, à la place des images de l'exercice. Pour les squats, les fentes, les développés et les pompes, l'écran compte aussi tes répétitions et vérifie ton amplitude, comme la caméra de l'iPhone. Voir la page <mention url="https://app.notion.com/p/4104095d0a7881cd9af2cc211beb95ba">Compter les répétitions avec la caméra</mention>.
+Le miroir affiche l'image d'une caméra sur l'écran, à la place des images de l'exercice. Pour les squats, les fentes, les développés, les pompes, les soulevés de terre, le kettlebell swing et les élévations latérales, l'écran compte aussi tes répétitions et vérifie ton amplitude, comme la caméra de l'iPhone. Il indique où te placer : <b>Je compte tes répétitions : place-toi de profil.</b>, ou <b>de face</b> pour les élévations latérales. Pour les autres exercices, il affiche <b>Pas de comptage pour cet exercice.</b> Voir la page <mention url="https://app.notion.com/p/4104095d0a7881cd9af2cc211beb95ba">Compter les répétitions avec la caméra</mention>.
 
 Le compte est envoyé à l'iPhone, qui remplit son compteur de répétitions. Il ne valide pas la série : touche <b>Série faite</b> ou dis « série validée ».
 
-L'écran ne compte pas pendant le repos, quand ton corps n'est pas entier dans l'image, quand tu te déplaces, ni quand quelqu'un passe devant toi (il affiche alors <b>Quelqu'un passe : comptage suspendu.</b>). Un mouvement pas assez profond affiche <b>Pas assez bas : répétition non comptée.</b> En miroir, la fenêtre de l'image prend la forme de l'image : haute et étroite si l'iPhone est en portrait, large s'il est en paysage. Elle se recale quand tu tournes l'iPhone, sans bandes noires. Elle prend au plus 62 % de la largeur ; la carte de la série garde le reste. Les consignes sont masquées, et le nom de l'exercice passe dans l'en-tête, à la place du nom de la séance, pour laisser toute la hauteur à l'image. Le badge <b>Apprentissage du geste</b> reste alors visible sur l'iPhone seulement. Les mesures de technique sont gardées comme avec la caméra de l'iPhone.
+L'écran ne compte pas pendant le repos, quand ton corps n'est pas entier dans l'image, quand tu te déplaces, ni quand quelqu'un passe devant toi (il affiche alors <b>Quelqu'un passe : comptage suspendu.</b>). Un mouvement pas assez profond affiche <b>Pas assez bas : répétition non comptée.</b> (<b>Pas assez penché</b> pour les soulevés de terre, <b>Pas assez haut</b> pour les élévations latérales). En miroir, la fenêtre de l'image prend la forme de l'image : haute et étroite si l'iPhone est en portrait, large s'il est en paysage. Elle se recale quand tu tournes l'iPhone, sans bandes noires. Elle prend au plus 62 % de la largeur ; la carte de la série garde le reste. Les consignes sont masquées, et le nom de l'exercice passe dans l'en-tête, à la place du nom de la séance, pour laisser toute la hauteur à l'image. Le badge <b>Apprentissage du geste</b> reste alors visible sur l'iPhone seulement. Les mesures de technique sont gardées comme avec la caméra de l'iPhone.
 
 ### Avec la caméra de l'iPhone
 

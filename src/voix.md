@@ -28,6 +28,8 @@ Quand le micro écoute tes commandes, le coach ne prononce aucun nombre : l'iPho
 | --- | --- | --- |
 | Fin du repos, même exercice | « C'est reparti. Deuxième série, 10 répétitions à 42,5 kilos. » Dernière série de l'exercice : « Dernière série, … » | « C'est reparti, à toi. » Dernière série de l'exercice : « Dernière série, à toi. » |
 | Fin du repos, exercice suivant | « On enchaîne : Squat à la Smith. 8 répétitions à 40 kilos. » | « On enchaîne : Squat à la Smith. » |
+| Fin du repos, premier exercice d'un superset | « Superset : Curl aux haltères. 10 répétitions à 10 kilos par haltère. Puis Extension triceps au-dessus de la tête, sans repos. » | « Superset : Curl aux haltères, puis Extension triceps au-dessus de la tête sans repos. » |
+| Série validée, second exercice du superset à suivre | « Enchaîne sans repos : Extension triceps au-dessus de la tête. », puis les répétitions et la charge | « Enchaîne sans repos : Extension triceps au-dessus de la tête. » |
 | Nouveau record | « Nouveau record ! 8 répétitions à 42,5 kilos. » | « Nouveau record ! » |
 | Dernière série de la séance | « Dernière série faite, bien joué ! » | Identique |
 | Mouvement d'échauffement | Le nom, la durée en secondes et la consigne | Le nom et la consigne, sans la durée |
@@ -35,7 +37,7 @@ Quand le micro écoute tes commandes, le coach ne prononce aucun nombre : l'iPho
 | Série validée à la voix | Sans objet | « C'est noté. » ou « Parfait. » |
 | Séance terminée à la voix | Sans objet | « Séance enregistrée. Beau travail ! » |
 | Rythme guidé | « Trois secondes pour descendre, puis tu pousses. », des bips, « Encore deux. », « Dernière. », puis « C'est fini, tu peux valider. » | La consigne, des bips seuls, puis « C'est fini, tu peux valider. » |
-| Caméra de l'iPhone | Le numéro de chaque répétition : « 1 », « 2 », « 3 » | Un bip court par répétition |
+| Caméra de l'iPhone | Le numéro de chaque répétition : « 1 », « 2 », « 3 ». Descente trop rapide deux fois de suite : « Freine la descente. » après le numéro, une seule fois par série | Un bip court par répétition |
 
 La tournure de fin de repos change d'une série à l'autre (« C'est reparti », « Allez, on y retourne », « À toi »), pour ne pas répéter toujours la même phrase.
 

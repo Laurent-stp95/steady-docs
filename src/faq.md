@@ -140,6 +140,36 @@ Le bouton « Enregistrer » des réglages est grisé. Pourquoi ?
 Soit aucun jour n'est choisi dans <b>Planning</b>, soit une séance est en cours et tu as changé le niveau, l'objectif, les jours ou la durée. Termine ou arrête la séance, ou annule ces changements. Voir la page <mention url="https://app.notion.com/p/4104095d0a7881da8431d20be835a6a0">Réglages</mention>.
 </toggle>
 
+<toggle heading="h3">
+Comment ajouter un exercice à ma séance ?
+
+Pendant la séance, touche <b>Ajouter un exercice</b>, puis choisis l'exercice dans la liste. Il s'ajoute en fin de séance, pour cette séance seulement : ton programme ne change pas. Voir la page <mention url="https://app.notion.com/p/4104095d0a7881999916e33a29eb3564">Pendant la séance</mention>, section Ajouter un exercice.
+</toggle>
+
+<toggle heading="h3">
+Comment noter une séance qui n'est pas dans mon programme ?
+
+Dans l'onglet <b>Programme</b>, touche <b>Séance libre</b> sous la carte de séance, puis ajoute tes exercices un à un. Voir la page <mention url="https://app.notion.com/p/4104095d0a7881d68701e6d20e5f92ce">Lancer une séance</mention>, section Lancer une séance libre.
+</toggle>
+
+<toggle heading="h3">
+J'ai fait une séance libre et ma semaine n'avance pas. Pourquoi ?
+
+Une séance libre ne remplace pas une séance de ta semaine. Ses séries sont bien dans ton suivi : courbes, records, récupération et historique. Voir la page <mention url="https://app.notion.com/p/4104095d0a78813182ffea7e300a7eaa">Ma semaine</mention>, section La séance libre.
+</toggle>
+
+<toggle heading="h3">
+Que veut dire le badge « Superset » ?
+
+En séance express, Steady enchaîne deux exercices sans repos entre les deux, avec un seul repos après la paire. Fais ta série, puis passe tout de suite à l'autre exercice. Voir la page <mention url="https://app.notion.com/p/4104095d0a7881999916e33a29eb3564">Pendant la séance</mention>, section Les supersets.
+</toggle>
+
+<toggle heading="h3">
+Le repos ne démarre pas après ma série. Pourquoi ?
+
+L'exercice est en superset : le repos démarre après la série du second exercice de la paire. Voir la page <mention url="https://app.notion.com/p/4104095d0a7881999916e33a29eb3564">Pendant la séance</mention>, section Les supersets.
+</toggle>
+
 ## Voix
 
 <toggle heading="h3">
@@ -201,13 +231,13 @@ Que veut dire « Caméra ou suivi du corps indisponible (connexion nécessaire l
 <toggle heading="h3">
 La caméra affiche « Recule un peu ». Que faire ?
 
-Ton corps n'est pas entier dans l'image : la tête et les pieds pour les squats, les épaules et les mains pour les développés. Éloigne-toi de l'iPhone jusqu'à ce que le message disparaisse. Voir la page <mention url="https://app.notion.com/p/4104095d0a7881cd9af2cc211beb95ba">Compter les répétitions avec la caméra</mention>.
+Ton corps n'est pas entier dans l'image : la tête et les pieds pour les squats, les épaules et les mains pour les développés, la tête et les genoux pour les soulevés de terre, les épaules, les coudes et les hanches pour les élévations latérales. Éloigne-toi de l'iPhone jusqu'à ce que le message disparaisse. Voir la page <mention url="https://app.notion.com/p/4104095d0a7881cd9af2cc211beb95ba">Compter les répétitions avec la caméra</mention>.
 </toggle>
 
 <toggle heading="h3">
 La caméra ne compte pas mes répétitions. Pourquoi ?
 
-Elle ne compte que si ton corps est entier dans l'image, que tu restes sur place et que tu fais un vrai mouvement : départ en position haute tenue, descente jusqu'à 120° au genou ou 110° au coude, retour en haut. Si tu ne descends pas assez, elle affiche <b>Pas assez bas : répétition non comptée.</b> Place-toi de profil. Les mouvements où le coude bouge peu (élévations latérales, écarté, haussements d'épaules) n'ont pas de comptage. Voir la page <mention url="https://app.notion.com/p/4104095d0a7881cd9af2cc211beb95ba">Compter les répétitions avec la caméra</mention>.
+Elle ne compte que si ton corps est entier dans l'image, que tu restes sur place et que tu fais un vrai mouvement : départ en position haute tenue, descente jusqu'à 130° au genou, 125° au coude ou 135° à la hanche, retour en haut. Si tu ne descends pas assez, elle affiche <b>Pas assez bas : répétition non comptée.</b> Place-toi de profil, ou de face pour les élévations latérales, où les deux bras doivent monter. Les mouvements où l'angle change peu (écarté, haussements d'épaules, mollets) n'ont pas de comptage. Voir la page <mention url="https://app.notion.com/p/4104095d0a7881cd9af2cc211beb95ba">Compter les répétitions avec la caméra</mention>.
 </toggle>
 
 <toggle heading="h3">
@@ -225,13 +255,19 @@ Dans <b>Réglages</b>, section <b>Séance</b>, choisis <b>Arrière grand-angle</
 <toggle heading="h3">
 Je ne vois pas le bouton « Compter avec la caméra ». Pourquoi ?
 
-Il n'apparaît que dans l'affichage <b>Une série à la fois</b>, pour les exercices de quadriceps, de pectoraux et d'épaules. Voir la page <mention url="https://app.notion.com/p/4104095d0a7881cd9af2cc211beb95ba">Compter les répétitions avec la caméra</mention>.
+Il n'apparaît que dans l'affichage <b>Une série à la fois</b>, pour les squats, les fentes sur place, les développés, les pompes, les soulevés de terre roumains et sumo, le kettlebell swing et les élévations latérales. Voir la page <mention url="https://app.notion.com/p/4104095d0a7881cd9af2cc211beb95ba">Compter les répétitions avec la caméra</mention>.
 </toggle>
 
 <toggle heading="h3">
 Mes images sont-elles envoyées quelque part ?
 
 Non. Le comptage se fait sur l'iPhone, aucune image n'est envoyée ni enregistrée. Avec le miroir, la vidéo va directement de l'iPhone à ton écran. Voir la page <mention url="https://app.notion.com/p/4104095d0a7881308ef3f920fa51aae8">Sauvegarde, restauration et données</mention>, section Ta vie privée, simplement.
+</toggle>
+
+<toggle heading="h3">
+La caméra affiche « Descente trop rapide : freine-la. ». Que faire ?
+
+Deux répétitions de suite sont descendues trop vite. Retiens la charge à la descente, sur 2 à 3 secondes. La répétition compte quand même. Voir la page <mention url="https://app.notion.com/p/4104095d0a7881cd9af2cc211beb95ba">Compter les répétitions avec la caméra</mention>.
 </toggle>
 
 ## Écran TV

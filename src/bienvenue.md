@@ -69,7 +69,8 @@ Voir la page <mention url="https://app.notion.com/p/4104095d0a78812781b6c38d2827
 ## Un programme adapté à ta forme du jour
 
 - Avant chaque séance, un point de forme de trois questions allège la séance si tu as mal dormi ou si tu es fatigué.
-- Si tu manques de temps, la séance express raccourcit la séance sans toucher aux mouvements principaux.
+- Si tu manques de temps, la séance express raccourcit la séance sans toucher aux mouvements principaux, et enchaîne des exercices en superset quand c'est possible.
+- Tu peux ajouter un exercice à une séance, ou faire une séance libre hors programme : tout entre dans ton suivi.
 - Après deux semaines ou plus sans séance, les charges baissent le temps d'une séance pour repartir en douceur.
 - Une zone fragile (épaules, genoux, bas du dos...) écarte les exercices à risque pour elle.
 - Une douleur signalée pendant une séance peut écarter l'exercice et le remplacer.

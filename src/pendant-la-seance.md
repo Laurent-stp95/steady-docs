@@ -19,6 +19,7 @@ De haut en bas :
 - La barre d'état avec les pastilles <b>Écran</b>, <b>Micro</b> et <b>Miroir</b>. Voir les pages <mention url="https://app.notion.com/p/4104095d0a78812e9cf2d9264bfe556a">Projeter sur un écran</mention> et <mention url="https://app.notion.com/p/4104095d0a78819883d2f7ef9a8d0b19">Coach vocal et commandes à la voix</mention>.
 - Les notes du jour, si besoin : semaine allégée, forme, séance express, reprise. Voir la page <mention url="https://app.notion.com/p/4104095d0a7881d68701e6d20e5f92ce">Lancer une séance</mention>.
 - La séance elle-même.
+- Le bouton <b>Ajouter un exercice</b>, sous la séance.
 
 Pendant la séance, l'écran de l'iPhone reste allumé, sauf si l'iPhone le refuse (batterie faible, par exemple).
 
@@ -70,6 +71,7 @@ Avant la première série d'un mouvement principal à la Smith machine, Steady i
 - Deux flèches pour passer à l'exercice précédent ou suivant, et la position, par exemple <b>Exercice 2 sur 5</b>.
 - Le nom de l'exercice et la série, par exemple <b>Série 1 sur 4 · 8-10 rép.</b>
 - Le badge <b>Apprentissage du geste</b>, pendant les 2 premières séances d'un exercice.
+- Le badge <b>Superset</b>, en séance express, quand l'exercice s'enchaîne avec un autre. Voir plus bas.
 - Deux grands compteurs avec <b>−</b> et <b>+</b> :
   - les répétitions (ou les secondes pour le gainage, par pas de 5) ;
   - la charge, avec son unité : <b>kg au total</b> (Smith machine), <b>kg par haltère</b>, <b>kg</b> (kettlebell) ou <b>kg d'élastique</b>. Il n'y a pas de compteur de charge pour les exercices au poids du corps.
@@ -97,7 +99,7 @@ Tu changes la charge avant de toucher aux répétitions : les répétitions pré
 
 ### Ce que montre une carte
 
-- Le nom de l'exercice et, si besoin, le badge <b>Apprentissage du geste</b>.
+- Le nom de l'exercice et, si besoin, les badges <b>Superset</b> et <b>Apprentissage du geste</b>.
 - La consigne, par exemple <b>4 × 8-10 · repos 90 s · garde 2 rép. en réserve</b>.
 - Le conseil du jour, avec la charge conseillée en gras.
 - Les disques à monter et les séries d'approche, si besoin.
@@ -133,7 +135,7 @@ Steady garde le plus possible les disques déjà montés, pour que tu en manipul
 
 ## Le repos
 
-Le minuteur de repos démarre tout seul après chaque série validée, quand une autre série ou un autre exercice suit. En <b>Toute la séance</b>, il ne démarre pas après la dernière série d'un exercice. Sa durée dépend de l'exercice (de 45 secondes à 3 minutes).
+Le minuteur de repos démarre tout seul après chaque série validée, quand une autre série ou un autre exercice suit. En <b>Toute la séance</b>, il ne démarre pas après la dernière série d'un exercice. Sa durée dépend de l'exercice (de 45 secondes à 3 minutes). En superset, il ne démarre qu'après le second exercice de la paire.
 
 | Affichage | Ce que tu vois | Boutons |
 | --- | --- | --- |
@@ -149,6 +151,22 @@ Le minuteur de repos démarre tout seul après chaque série validée, quand une
 Tu projettes ta séance sur un écran connecté : c'est l'écran qui sonne et qui parle, l'iPhone reste silencieux.
 
 Le son ne joue que si Steady est à l'écran. Si tu verrouilles l'iPhone pendant le repos, une notification peut te prévenir. Voir la page <mention url="https://app.notion.com/p/4104095d0a7881e98e1bce6fa537513e">Activer les notifications</mention>.
+
+## Les supersets
+
+En séance express, Steady peut enchaîner deux exercices en superset : une série du premier, une série du second sans repos, puis un seul repos. Le temps gagné permet de garder plus d'exercices dans le temps choisi. Le choix des paires est expliqué dans la page <mention url="https://app.notion.com/p/4104095d0a78811bbf1af7356b15f0db">Comment Steady choisit tes charges</mention>, section La séance express.
+
+L'ordre des séries : première série du premier exercice, première série du second, repos, deuxième série du premier, deuxième série du second, repos, et ainsi de suite. Quand l'un des deux a fini ses séries, l'autre termine seul, avec son repos habituel.
+
+| Affichage | Ce que tu vois |
+| --- | --- |
+| <b>Une série à la fois</b>, premier exercice | Le badge <b>Superset</b> et la note <b>Fais ta série, puis enchaîne sans repos : Curl aux haltères.</b> (avec le nom du second) |
+| <b>Une série à la fois</b>, second exercice | <b>Enchaîné après Rowing à un bras à l'haltère. Repos de 30 s après cette série.</b> (avec le nom du premier et la durée du repos) |
+| <b>Toute la séance</b> | Les deux cartes se suivent, chacune avec une note qui commence par <b>Superset :</b> et rappelle l'ordre et le repos |
+
+- Tu valides la série du premier exercice : aucun minuteur ne démarre, l'écran passe au second et le coach vocal dit « Enchaîne sans repos : » suivi du nom, des répétitions et de la charge.
+- Tu valides la série du second : le repos démarre. Il dure la moitié du plus long des deux repos, 30 secondes au moins.
+- La paire finie : tu notes la technique et le ressenti du premier exercice, puis du second.
 
 ## Les records
 
@@ -202,12 +220,13 @@ Ces réponses sont facultatives, mais elles rendent la progression plus juste.
 1. Touche <b>Douleur</b> sous <b>Ressenti</b>.
 2. Dans <b>Où as-tu mal ?</b>, choisis la zone : <b>Épaules</b>, <b>Coudes</b>, <b>Poignets</b>, <b>Bas du dos</b>, <b>Genoux</b> ou <b>Ailleurs</b>. <b>Annuler</b>, ou fermer la feuille : rien n'est noté.
 3. Si c'est la deuxième douleur sur cette zone en 8 semaines, Steady propose de l'ajouter à tes zones fragiles : touche <b>Ajouter aux zones fragiles</b> ou <b>Pas maintenant</b>.
-4. Dans <b>Douleur notée</b>, qui commence par <b>Bien de l'avoir signalé.</b>, choisis pour les prochaines séances <b>Écarter et remplacer</b> ou <b>Garder, charge réduite</b>.
+4. Dans <b>Douleur notée</b>, qui commence par <b>Bien de l'avoir signalé.</b>, choisis pour les prochaines séances <b>Écarter et remplacer</b> ou <b>Garder, charge réduite</b>. Pour un exercice ajouté à la séance ou une séance libre, le premier bouton s'appelle <b>Écarter</b>.
 
 Résultats :
 
 - <b>Ajouter aux zones fragiles</b> : les exercices à risque pour cette zone sont remplacés dans ton programme et ne seront plus proposés.
 - <b>Écarter et remplacer</b> : l'exercice est remplacé dans ton programme par un autre du même groupe musculaire. L'appli affiche <b>Exercice écarté</b> suivi du nom, avec <b>Annuler</b> pendant 5 secondes. Sans remplaçant possible, elle affiche <b>Aucun exercice de remplacement : saute-le aujourd'hui.</b>
+- <b>Écarter</b> (exercice ajouté ou séance libre) : l'exercice ne sera plus proposé, et il est remplacé dans ton programme s'il y figure un autre jour. L'appli affiche <b>Exercice écarté</b> suivi du nom, avec <b>Annuler</b> pendant 5 secondes.
 - <b>Garder, charge réduite</b> : l'exercice reste. À la séance suivante, sa charge baisse et le conseil indique <b>Douleur signalée : charge réduite. Si elle revient, arrête cet exercice.</b>
 
 Les douleurs notées apparaissent dans l'onglet <b>Progrès</b>. Un exercice écarté se réintègre dans les réglages, section <b>Zones fragiles</b>. Voir les pages <mention url="https://app.notion.com/p/4104095d0a7881c2b489e8875c54f972">Progrès</mention> et <mention url="https://app.notion.com/p/4104095d0a7881da8431d20be835a6a0">Réglages</mention>.
@@ -219,6 +238,23 @@ L'appli le rappelle : <b>Si la douleur persiste, consulte un professionnel de sa
 En <b>Une série à la fois</b>, l'écran affiche l'exercice en cours. Les flèches en haut de la carte permettent de regarder l'exercice précédent ou suivant, par exemple pour préparer ton matériel.
 
 Quand toutes les séries sont faites, la carte affiche <b>Toutes les séries sont faites</b> et <b>Enregistre la séance pour voir ton bilan.</b>, puis <b>Enregistrer la séance</b> et <b>Revenir au dernier exercice</b>.
+
+## Ajouter un exercice
+
+Tu peux ajouter un exercice à la séance en cours. Il vaut pour cette séance seulement : ton programme ne change pas.
+
+1. Touche <b>Ajouter un exercice</b>, sous la carte en <b>Une série à la fois</b>, ou en bas de la liste en <b>Toute la séance</b>.
+2. Dans la feuille <b>Ajouter un exercice</b>, cherche l'exercice : tape son nom dans <b>Rechercher un exercice</b> (les accents ne comptent pas), ou touche une pastille de zone, par exemple <b>Dos</b>. <b>Tout</b> réaffiche toutes les zones.
+3. Touche l'exercice. Chaque ligne indique ses séries et sa charge du jour, par exemple <b>3 × 10-12 · 10 kg par haltère</b>.
+
+Résultat : l'exercice s'ajoute en fin de séance et l'appli affiche <b>Ajouté en fin de séance :</b> suivi du nom, avec <b>Annuler</b> pendant 5 secondes. S'il ne restait rien à faire avant lui, l'écran passe directement dessus et affiche <b>Ajouté :</b> suivi du nom.
+
+- La liste ne propose que les exercices que ton matériel et tes zones fragiles permettent, sans ceux déjà dans la séance ni ceux que tu as écartés. Rien ne correspond : la feuille affiche <b>Aucun exercice ne correspond. Seuls ceux que ton matériel et tes zones fragiles permettent sont proposés.</b>
+- Les séries, les répétitions, le repos et la charge suivent les mêmes règles que ton programme, avec ton historique sur cet exercice. La dose d'un mouvement principal n'est donnée qu'à un mouvement principal placé dans les deux premiers exercices de la séance.
+- Tant qu'aucune série n'est validée, le bouton <b>Retirer de la séance</b> (en rouge) sous l'exercice l'enlève. Après une série validée, l'exercice reste : l'appli affiche <b>Séries déjà validées : cet exercice reste dans la séance.</b>
+- Tu touches <b>Fermer</b> : rien n'est ajouté.
+
+Dans une séance libre, c'est ainsi que tu construis toute la séance. Voir la page <mention url="https://app.notion.com/p/4104095d0a7881d68701e6d20e5f92ce">Lancer une séance</mention>, section Lancer une séance libre.
 
 ## Mettre en pause
 
@@ -238,6 +274,8 @@ Toutes les séries faites, touche <b>Enregistrer la séance</b> (en bas de la ca
 - l'avancement de la semaine, avec la séance du jour déjà comptée ;
 - la prochaine séance, par exemple <b>Prochaine séance : mercredi · Full body</b> ;
 - le bouton <b>Terminé</b>, qui ramène à <b>Ma semaine</b>.
+
+Après une séance libre, l'avancement de la semaine est remplacé par cette note : <b>Séance libre : tes séries sont dans ton suivi (records, courbes, récupération), mais elle ne remplace pas une séance de ta semaine.</b>
 
 Une copie de ton journal part sur le serveur si la sauvegarde automatique est active.
 

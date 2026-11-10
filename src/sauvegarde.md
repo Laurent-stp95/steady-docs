@@ -110,7 +110,7 @@ Le bouton <b>Exporter CSV</b> de la carte <b>Mes données</b> crée un fichier l
 | horodatage | Date et heure de la saisie |
 | type | Nature de la saisie, par exemple set (série), start (début de séance), end (fin de séance), feel (ressenti), tech (technique), pause, resume (reprise), cancel (abandon) |
 | seance | Identifiant de la séance (sa date et son heure de début) |
-| jour | Jour de la séance |
+| jour | Jour de la séance, ou Séance libre pour une séance hors programme |
 | exercice\_id, exercice | Numéro et nom de l'exercice |
 | serie | Numéro de la série |
 | kg | Charge (0 au poids du corps) |
