@@ -393,5 +393,5 @@ Le fichier choisi n'est pas une sauvegarde de Steady. Choisis un fichier créé 
 <toggle heading="h3">
 Un bandeau « Nouvelle version disponible » s'affiche. Que faire ?
 
-Touche <b>Recharger</b> : Steady redémarre avec la nouvelle version, sur l'écran où tu étais. Voir la page <mention url="https://app.notion.com/p/4104095d0a7881da8431d20be835a6a0">Réglages</mention>, section Appli.
+Touche <b>Recharger</b> : Steady télécharge la nouvelle version, puis redémarre dessus, sur l'écran où tu étais. Le bandeau n'apparaît que lorsqu'il y a vraiment du neuf : une fois rechargé, il ne revient pas. Voir la page <mention url="https://app.notion.com/p/4104095d0a7881da8431d20be835a6a0">Réglages</mention>, section Appli.
 </toggle>

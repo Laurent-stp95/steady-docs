@@ -29,7 +29,7 @@ Attention, certaines actions s'appliquent tout de suite, sans <b>Enregistrer</b>
 | Niveau, objectif | <b>Sauvegarde automatique</b>, <b>Sauvegarder</b>, <b>Copier</b>, <b>Restaurer avec un code</b> |
 | Matériel et charges | <b>Oublier l'écran</b> |
 | Planning (jours, durée) | <b>Activer les notifications</b>, <b>Désactiver les notifications</b> |
-| Zones fragiles et <b>Réintégrer</b> | <b>Mettre à jour</b> |
+| Zones fragiles et <b>Réintégrer</b> | <b>Vérifier</b> et <b>Installer</b> (mise à jour) |
 | <b>Coach vocal</b> |  |
 | Réglages des notifications (interrupteurs, heure, délai) |  |
 
@@ -79,13 +79,19 @@ Résultat : l'exercice peut de nouveau être proposé, par exemple lors d'un rem
 
 ### Appli
 
-La ligne indique la version installée, par exemple <b>Version du 06/11/2026 14:30</b>, avec le bouton <b>Mettre à jour</b>.
+La ligne de la version montre où en est l'appli, avec le bouton qui va avec. Dans les réglages, aucun bandeau ne s'affiche en haut de l'écran : tout se passe sur cette ligne.
 
-1. Touche <b>Mettre à jour</b>.
-2. L'appli affiche <b>Mise à jour en cours…</b>, télécharge la dernière version et redémarre.
-3. Au retour, l'appli affiche <b>Appli à jour : version du</b> suivi de la date, sur l'écran <b>Réglages</b>.
+| La ligne affiche | Bouton | Effet |
+| --- | --- | --- |
+| <b>Version du 06/11/2026 14:30</b> (la version installée) | <b>Vérifier</b> | Le bouton passe à <b>Vérification…</b>. Rien de neuf : l'appli affiche <b>Steady est à jour</b> et ne redémarre pas. Une nouvelle version : elle est téléchargée et l'appli redémarre dessus |
+| <b>Nouvelle version disponible</b>, puis <b>Actuelle : version du</b> suivi de la date | <b>Installer</b> | Le bouton passe à <b>Mise à jour…</b>, la nouvelle version est téléchargée en entier, puis l'appli redémarre dessus |
 
-Sans réseau, l'appli affiche <b>Hors ligne : reconnecte-toi pour mettre à jour.</b>
+Après un redémarrage, tu reviens sur l'écran <b>Réglages</b> et l'appli affiche <b>Appli à jour : version du</b> suivi de la date. Les changements de réglages pas encore enregistrés sont perdus : touche <b>Enregistrer</b> avant.
+
+- Sans réseau, l'appli affiche <b>Hors ligne : reconnecte-toi pour chercher une mise à jour.</b>
+- Serveur injoignable : l'appli affiche <b>Impossible de joindre le serveur. Réessaie dans un moment.</b>
+
+En temps normal, tu n'as pas besoin de ce bouton : quand une nouvelle version est prête, le bandeau <b>Nouvelle version disponible</b> apparaît avec <b>Recharger</b> sur les autres écrans. Voir la page <mention url="https://app.notion.com/p/4104095d0a7881cbaa8ef7be79c7d001">Installer Steady sur l'iPhone</mention>.
 
 #### Réinitialiser les séances et séries
 
@@ -98,5 +104,3 @@ La ligne <b>Séances et séries</b> efface tout ton suivi, par exemple après de
 Résultat : séances, séries, ressentis, douleurs et mesures de la caméra sont effacés ; records, courbes et historique repartent de zéro ; le cycle recommence cette semaine ; une séance en cours est abandonnée. Ton profil, ton matériel et ton programme sont gardés. L'appli affiche <b>Séances réinitialisées</b> avec <b>Annuler</b> pendant 5 secondes pour tout retrouver.
 
 La copie sur le serveur garde l'ancien suivi jusqu'à ta prochaine séance terminée, puis elle est remplacée.
-
-En temps normal, tu n'as pas besoin de ce bouton : quand une nouvelle version est prête, le bandeau <b>Nouvelle version disponible</b> apparaît avec <b>Recharger</b>. Voir la page <mention url="https://app.notion.com/p/4104095d0a7881cbaa8ef7be79c7d001">Installer Steady sur l'iPhone</mention>.

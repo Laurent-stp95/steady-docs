@@ -46,12 +46,12 @@ Certaines fonctions ont quand même besoin d'internet (vidéos, écran projeté,
 
 ## Recevoir les nouvelles versions
 
-Steady se met à jour tout seul. Quand une nouvelle version est prête, le bandeau <b>Nouvelle version disponible</b> apparaît :
+Steady vérifie tout seul s'il existe une nouvelle version à chaque ouverture. Le bandeau <b>Nouvelle version disponible</b> n'apparaît que si le code de l'appli a vraiment changé :
 
-1. Touche <b>Recharger</b>.
+1. Touche <b>Recharger</b>. Le bouton passe à <b>Mise à jour…</b> le temps de télécharger toute la nouvelle version.
 2. Steady redémarre sur l'écran où tu étais et affiche <b>Appli à jour : version du</b> suivi de la date.
 
-Tu peux aussi forcer la mise à jour depuis les réglages. Voir la page <mention url="https://app.notion.com/p/4104095d0a7881da8431d20be835a6a0">Réglages</mention>, section Appli.
+Tu peux aussi vérifier toi-même depuis les réglages, où l'état de la mise à jour s'affiche sur la ligne de la version. Voir la page <mention url="https://app.notion.com/p/4104095d0a7881da8431d20be835a6a0">Réglages</mention>, section Appli.
 
 ## Avant de supprimer l'appli ou de changer d'iPhone
 
